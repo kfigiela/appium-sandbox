@@ -6,9 +6,11 @@
 2. `npm install -g appium`
 3. Install ruby
 4. `bundle install --path vendor/bundle`
+5. Enable USB debugging (security) to allow appium
 
 ## Execute
 
+0. Add `xkom.apk` to main folder of this repo
 1. In other console `appium`
 2. Connect device
 3. `bundle exec rspec`
