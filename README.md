@@ -8,6 +8,10 @@
 4. `bundle install --path vendor/bundle`
 5. Enable USB debugging (security) to allow appium
 
+## Getting element ids
+
+Run `uiautomatorviewer` from android `platform-tools` (next to adb)
+
 ## Execute
 
 0. Add `xkom.apk` to main folder of this repo
