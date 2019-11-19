@@ -4,7 +4,7 @@
 
 1. Install node
 2. `npm install -g appium`
-3. Install ruby
+3. Install ruby (and `bundler` gem – not sure if installed by default)
 4. `bundle install --path vendor/bundle`
 5. Enable USB debugging (security) to allow appium
 
